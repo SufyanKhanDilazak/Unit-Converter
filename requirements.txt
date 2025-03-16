@@ -1,2 +1,2 @@
-streamlit
-pint
+streamlit==1.32.2
+pint==0.24.4
